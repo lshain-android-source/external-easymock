@@ -1,0 +1,4 @@
+external-easymock
+=================
+
+external-easymock
